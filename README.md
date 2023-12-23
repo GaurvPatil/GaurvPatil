@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript , React , Nodejs**
 
-- 📫 How to reach me **gauravmpatil17@gmail.com**
+- 📫 How to reach me : **gauravmpatil17@gmail.com**
 
 <br/>
 <h3 align="left">Technologies That I Know👨🏻‍💻 </h3>
